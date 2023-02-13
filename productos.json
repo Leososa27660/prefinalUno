@@ -1,0 +1,116 @@
+[
+	{
+        "title": "Producto de prueba0",
+        "description": "descripción de prueba0",
+        "price": 250,
+        "thumbnail":"Imagen de Prueba0",
+        "code": "abc12535",
+        "stock": 10,
+        "status": true,
+        "category": "categoria de prueba" 
+
+	},
+	{
+        "title": "Producto de prueba1",
+        "description": "descripción de prueba1",
+        "price": 350,
+        "thumbnail":"Imagen de Prueba1",
+        "code": "abc12536",
+        "stock": 10,
+        "status": true,
+        "category": "categoria de prueba" 
+ 
+	},
+	{
+        "title": "Producto de prueba2",
+        "description": "descripción de prueba2",
+        "price": 450,
+        "thumbnail":"Imagen de Prueba2",
+        "code": "abc12537",
+        "stock": 10,
+        "status": true,
+        "category": "categoria de prueba" 
+
+	},
+    {
+        "title": "Producto de prueba3",
+        "description": "descripción de prueba3",
+        "price": 550,
+        "thumbnail":"Imagen de Prueba3",
+        "code": "abc12538",
+        "stock": 10,
+        "status": true,
+        "category": "categoria de prueba" 
+
+	},
+    {
+        "title": "Producto de prueba4",
+        "description": "descripción de prueba4",
+        "price": 650,
+        "thumbnail":"Imagen de Prueba4",
+        "code": "abc12539",
+        "stock": 10,
+        "status": true,
+        "category": "categoria de prueba"  
+
+	},
+    {
+        "title": "Producto de prueba5",
+        "description": "descripción de prueba5",
+        "price": 750,
+        "thumbnail":"Imagen de Prueba5",
+        "code": "abc12540",
+        "stock": 10,
+        "status": true,
+        "category": "categoria de prueba" 
+ 
+	},
+    {
+        "title": "Producto de prueba6",
+        "description": "descripción de prueba6",
+        "price": 850,
+        "thumbnail":"Imagen de Prueba6",
+        "code": "abc12541",
+        "stock": 10,
+        "status": true,
+        "category": "categoria de prueba"  
+
+	},
+    {
+        "title": "Producto de prueba7",
+        "description": "descripción de prueba7",
+        "price": 950,
+        "thumbnail":"Imagen de Prueba7",
+        "code": "abc12541",
+        "stock": 10,
+        "status": true,
+        "category": "categoria de prueba" 
+
+        
+	},
+    {
+        "title": "Producto de prueba8",
+        "description": "descripción de prueba8",
+        "price": 1050,
+        "thumbnail":"Imagen de Prueba8",
+        "code": "abc12542",
+        "stock": 10,
+        "status": true,
+        "category": "categoria de prueba" 
+
+        
+	},
+    {
+        "title": "Producto de prueba9",
+        "description": "descripción de prueba9",
+        "price": 1060,
+        "thumbnail":"Imagen de Prueba9",
+        "code": "abc12543",
+        "stock": 10,
+        "status": true,
+        "category": "categoria de prueba" 
+
+	}
+]
+
+
