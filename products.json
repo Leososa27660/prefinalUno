@@ -7,8 +7,8 @@
         "code": "abc12535",
         "stock": 10,
         "status": true,
-        "category": "categoria de prueba" 
-
+        "category": "categoria de prueba", 
+        "id" : 1    
 	},
 	{
         "title": "Producto de prueba1",
@@ -18,7 +18,8 @@
         "code": "abc12536",
         "stock": 10,
         "status": true,
-        "category": "categoria de prueba" 
+        "category": "categoria de prueba", 
+        "id" : 2     
  
 	},
 	{
@@ -29,7 +30,8 @@
         "code": "abc12537",
         "stock": 10,
         "status": true,
-        "category": "categoria de prueba" 
+        "category": "categoria de prueba", 
+        "id" : 3    
 
 	},
     {
@@ -40,7 +42,8 @@
         "code": "abc12538",
         "stock": 10,
         "status": true,
-        "category": "categoria de prueba" 
+        "category": "categoria de prueba", 
+        "id" : 4     
 
 	},
     {
@@ -51,7 +54,8 @@
         "code": "abc12539",
         "stock": 10,
         "status": true,
-        "category": "categoria de prueba"  
+        "category": "categoria de prueba", 
+        "id" : 5     
 
 	},
     {
@@ -62,7 +66,8 @@
         "code": "abc12540",
         "stock": 10,
         "status": true,
-        "category": "categoria de prueba" 
+        "category": "categoria de prueba", 
+        "id" : 6    
  
 	},
     {
@@ -73,7 +78,8 @@
         "code": "abc12541",
         "stock": 10,
         "status": true,
-        "category": "categoria de prueba"  
+        "category": "categoria de prueba", 
+        "id" : 7      
 
 	},
     {
@@ -84,7 +90,8 @@
         "code": "abc12541",
         "stock": 10,
         "status": true,
-        "category": "categoria de prueba" 
+        "category": "categoria de prueba", 
+        "id" : 8    
 
         
 	},
@@ -96,7 +103,8 @@
         "code": "abc12542",
         "stock": 10,
         "status": true,
-        "category": "categoria de prueba" 
+        "category": "categoria de prueba", 
+        "id" : 9    
 
         
 	},
@@ -108,7 +116,8 @@
         "code": "abc12543",
         "stock": 10,
         "status": true,
-        "category": "categoria de prueba" 
+        "category": "categoria de prueba", 
+        "id" : 10    
 
 	}
 ]

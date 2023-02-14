@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-class CartManager{
+class Carts{
 
     constructor(path){
         this.path = path;
@@ -97,7 +97,7 @@ class CartManager{
     }
 };
 
-let container = new CartManager('./carrito.json');
+let container = new Carts('./carrito.json');
 
 const createCart = (req, res) => {
     container.getAll().then(() =>{

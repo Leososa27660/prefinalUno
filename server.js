@@ -13,12 +13,20 @@ app.use(express.static(path.resolve(__dirname, './public')));
 app.use('/api', routes);
 
 app.use('*', (req, res) =>{
-    res.status(404).send(`error: ruta ${req.url} metodo ${req.method} no es autorizado`);
+    res.status(404).send(`error: ruta ${req.url} metodo ${req.method} no autorizado`);
 });
+
 const connectedServer = app.listen(PORT, ()=> {
     console.log(`Listenign on port http://localhost:${PORT}`);
+});
+
+connectedServer.on('error', (error) => {
+    console.error('Error: ', error);
 });
   
 connectedServer.on('error', (error) => {
     console.error('Error: ', error);
 });
+
+
+
